@@ -1,0 +1,23 @@
+node_modules/
+.next/
+.env*
+!.env.example
+.tools/
+node-runtime.zip
+node-checksums.txt
+*.log
+test-results/
+playwright-report/
+*.tsbuildinfo
+
+# Local deployment state, credentials, and unrelated Windows files
+.vercel/
+/.aws/
+/.codex/
+/.agents/
+/Microsoft/
+*.pem
+*.key
+Desktop.ini
+Thumbs.db
+.DS_Store

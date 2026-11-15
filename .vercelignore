@@ -1,0 +1,7 @@
+.tools
+.env.local
+node-runtime.zip
+node-checksums.txt
+test-results
+playwright-report
+*.log
